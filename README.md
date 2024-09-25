@@ -1,3 +1,6 @@
+<a href="https://www.flaticon.com/br/icones-gratis/desenvolvimento-web" title="Desenvolvimento web ícones">
+  <img align="right" alt="Desenvolvimento web ícones" height="280" src="https://cdn-icons-png.flaticon.com/128/4667/4667917.png" title="Desenvolvimento web ícones">
+</a>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -18,3 +21,14 @@
 <h4>- My skills</h4>
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,py)](https://skillicons.dev)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariana-rgb&show_icons=true&bg_color=000000)](https://github.com/anuraghazra/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariana-rgb&layout=compact&bg_color=000000)
+
+<hr>
+<details align="left">
+<summary></summary> 
+  - GitHub Stats by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a><br>
+  -  <a href="https://www.flaticon.com/br/icones-gratis/desenvolvimento-web" title="desenvolvimento web ícones">Web development icon created by srip - Flaticon</a>
+<div align="right">This README was made by <a href="https://github.com/mariana-rgb">MTF</a>.</div>
+ 
+</details>
