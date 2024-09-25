@@ -1,5 +1,5 @@
 <a href="https://www.flaticon.com/br/icones-gratis/desenvolvimento-web" title="Desenvolvimento web ícones">
-  <img align="center" alt="Desenvolvimento web ícones" height="280" src="https://cdn-icons-png.flaticon.com/128/4667/4667917.png" title="Desenvolvimento web ícones">
+  <img align="right" alt="Desenvolvimento web ícones" height="280" src="https://cdn-icons-png.flaticon.com/128/4667/4667917.png" title="Desenvolvimento web ícones">
 </a>
 
 <p align="center">
