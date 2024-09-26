@@ -22,7 +22,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,py)](https://skillicons.dev)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariana-rgb&show_icons=true&bg_color=000000)](https://github.com/anuraghazra/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariana-rgb&layout=compact&bg_color=000000)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariana-rgb&show_icons=true&bg_color=000000&title_color=00FFFF&text_color=0099CC&icon_color=800080)](https://github.com/anuraghazra/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariana-rgb&layout=compact&bg_color=000000&title_color=00FFFF&text_color=0099CC)
 
 <hr>
 <details align="left">
