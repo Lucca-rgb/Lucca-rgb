@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=👋+Hi,+I’m+Mariana+Torres+Flores;🤝+Welcome+to+my+GitHub+Profile!&font=Segoe Script" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com/?lines=👋+Hi,+I’m+Lucca+Torres+Flores;🤝+Welcome+to+my+GitHub+Profile!&font=Segoe Script" alt="Typing SVG"/>
   </a>
 </p>
 <hr>
@@ -22,13 +22,13 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,py,lua)](https://skillicons.dev)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariana-rgb&count_private=true&show_icons=true&bg_color=000000&title_color=00FFFF&text_color=0099CC&icon_color=800080)](https://github.com/anuraghazra/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariana-rgb&&count_private=true&layout=compact&bg_color=000000&title_color=00FFFF&text_color=0099CC)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucca-rgb&count_private=true&show_icons=true&bg_color=000000&title_color=00FFFF&text_color=0099CC&icon_color=800080)](https://github.com/anuraghazra/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucca-rgb&&count_private=true&layout=compact&bg_color=000000&title_color=00FFFF&text_color=0099CC)
 
 <hr>
 <details align="left">
 <summary></summary> 
   - GitHub Stats by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a><br>
   -  <a href="https://www.flaticon.com/br/icones-gratis/desenvolvimento-web" title="desenvolvimento web ícones">Web development icon created by srip - Flaticon</a>
-<div align="right">This README was made by <a href="https://github.com/mariana-rgb">MTF</a>.</div>
+<div align="right">This README was made by <a href="https://github.com/Lucca-rgb">LTF</a>.</div>
  
 </details>
