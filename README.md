@@ -16,7 +16,7 @@
 <br>
 - 😄 Pronouns: He/Him
 <br>
-- ⚡ Fun fact: I love to draw and read, especially comics, and I’m proud to be part of the LGBTQ+ community🏳️‍🌈.
+- ⚡ Fun fact: I love to draw and read, especially comics, and I’m proud to be part of the LGBTQ+ community🏳️‍🌈. My chosen name is Lucca.
 <hr>
 <h4>- My skills</h4>
 
