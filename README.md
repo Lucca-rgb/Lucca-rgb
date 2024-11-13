@@ -14,7 +14,7 @@
 <br>
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/Mariana-Torres-🏳️‍🌈-289099210">LinkedIn</a>
 <br>
-- 😄 Pronouns: He/His
+- 😄 Pronouns: He/Him
 <br>
 - ⚡ Fun fact: I love to draw and read, especially comics, and I’m proud to be part of the LGBTQ+ community🏳️‍🌈.
 <hr>
