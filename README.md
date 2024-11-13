@@ -12,7 +12,7 @@
 <br>
 - 🌱 I’m currently learning English, programming basic games, and creating fictional websites.
 <br>
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/Mariana-Torres-🏳️‍🌈-289099210">LinkedIn</a>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/Lucca-Torres-🏳️‍🌈-289099210">LinkedIn</a>
 <br>
 - 😄 Pronouns: He/Him
 <br>
@@ -30,5 +30,4 @@
   - GitHub Stats by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a><br>
   -  <a href="https://www.flaticon.com/br/icones-gratis/desenvolvimento-web" title="desenvolvimento web ícones">Web development icon created by srip - Flaticon</a>
 <div align="right">This README was made by <a href="https://github.com/Lucca-rgb">LTF</a>.</div>
- 
 </details>
