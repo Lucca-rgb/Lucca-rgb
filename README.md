@@ -12,7 +12,6 @@
 <br>
 - 🌱 I’m currently learning English, programming basic games, and creating fictional websites.
 <br>
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/Lucca-Torres-🏳️‍🌈-289099210">LinkedIn</a>
 <br>
 - 😄 Pronouns: He/Him
 <br>
