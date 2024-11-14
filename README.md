@@ -12,7 +12,6 @@
 <br>
 - 🌱 I’m currently learning English, programming basic games, and creating fictional websites.
 <br>
-<br>
 - 😄 Pronouns: He/Him
 <br>
 - ⚡ Fun fact: I love to draw and read, especially comics, and I’m proud to be part of the LGBTQ+ community🏳️‍🌈. My chosen name is Lucca.
