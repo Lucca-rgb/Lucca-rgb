@@ -12,10 +12,10 @@
 
 ### About Me
 
-- ✍️ I’m passionate about learning new languages—whether they’re programming languages or foreign languages.  
-- 🌱 Currently, I’m learning English, developing basic games, and designing fictional websites.
+- ✍️ I’m interested in learning new languages every day. Sometimes they are programming languages, and sometimes they are foreign languages.
+- 🌱 I’m currently learning English, programming basic games, and creating fictional websites.
 - 😄 **Pronouns:** He/Him
-- ⚡ **Fun fact:** I love drawing, reading comics, and I’m proud to be part of the LGBTQ+ community.
+- ⚡ **Fun fact:** I love to draw and read, especially comics, and I’m proud to be part of the LGBTQ+ community
 - 🏳️‍🌈 **Name:** My chosen name is Lucca.
 
 ---
