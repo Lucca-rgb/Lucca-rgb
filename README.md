@@ -1,12 +1,9 @@
+![Simple Technology LinkedIn Banner (1)](https://github.com/user-attachments/assets/e70dde5c-5d1d-4a6f-abc7-84497d8c4a4f)
+
+
 <a href="https://www.flaticon.com/br/icones-gratis/desenvolvimento-web" title="Desenvolvimento web ícones">
   <img align="right" alt="Desenvolvimento web ícones" height="280" src="https://cdn-icons-png.flaticon.com/128/4667/4667917.png" title="Desenvolvimento web ícones">
 </a>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=👋+Hi,+I’m+Lucca+Torres+Flores;🤝+Welcome+to+my+GitHub+Profile!&font=Segoe Script" alt="Typing SVG"/>
-  </a>
-</p>
 
 <hr>
 
