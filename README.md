@@ -1,8 +1,9 @@
 ![Simple Technology LinkedIn Banner (1)](https://github.com/user-attachments/assets/e70dde5c-5d1d-4a6f-abc7-84497d8c4a4f)
 
 
-<a href="https://www.flaticon.com/br/icones-gratis/desenvolvimento-web" title="Desenvolvimento web ícones">
-  <img align="right" alt="Desenvolvimento web ícones" height="280" src="https://cdn-icons-png.flaticon.com/128/4667/4667917.png" title="Desenvolvimento web ícones">
+<a href="https://www.flaticon.com/free-icon/landing-page_4053026?term=web&related_id=4053026" title="Desenvolvimento web ícones">
+  <img align="right" alt="Desenvolvimento web ícones" height="280" src="https://github.com/user-attachments/assets/90cc8863-c1b6-4ef9-8384-7d0f10beda5c" />
+</a>
 </a>
 
 <hr>
