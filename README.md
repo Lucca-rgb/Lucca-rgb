@@ -24,9 +24,7 @@
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucca-rgb&count_private=true&show_icons=true&bg_color=00008b,4b0082,2e0854,1a001a&title_color=ffffff&text_color=d8bfd8&icon_color=ba55d3)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucca-rgb&count_private=true&layout=compact&bg_color=00008b,4b0082,2e0854,1a001a&title_color=ffffff&text_color=d8bfd8)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucca-rgb&count_private=true&show_icons=true&bg_color=00008b,4b0082,2e0854,1a001a&title_color=ffffff&text_color=d8bfd8&icon_color=ba55d3) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucca-rgb&count_private=true&layout=compact&bg_color=00008b,4b0082,2e0854,1a001a&title_color=ffffff&text_color=d8bfd8)
 
 <hr>
 
