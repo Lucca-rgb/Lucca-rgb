@@ -26,11 +26,18 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucca-rgb&count_private=true&show_icons=true&bg_color=00008b,4b0082,2e0854,1a001a&title_color=ffffff&text_color=d8bfd8&icon_color=ba55d3) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucca-rgb&count_private=true&layout=compact&bg_color=00008b,4b0082,2e0854,1a001a&title_color=ffffff&text_color=d8bfd8)
 
+---
+
+### Github Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Lucca-rgb&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
+
 <hr>
 
 <details align="left">
   <summary></summary>
   - GitHub Stats by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a><br>
+  - GitHub Trophies by <a href= "https://github.com/ryo-ma/github-profile-trophy">ryo-ma</a><br>
   - Web development icon created by <a href="https://www.flaticon.com/br/icones-gratis/desenvolvimento-web" title="Desenvolvimento web ícones">srip - Flaticon</a><br>
   <div align="right">This README was created by <a href="https://github.com/Lucca-rgb">LTF</a>.</div>
 </details>
